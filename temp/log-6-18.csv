@@ -1,0 +1,19 @@
+episode,step,observation,action,reward
+6,1,[ 1  2  2 32  1  2  0  1  8  1  1],"{'action': 1, 'deposit_call_address': 2, 'time': 2, 'withdraw_call_address': 32}",1
+6,2,[ 1  3  2 32  2  1  0  3  7  1  1],"{'action': 1, 'deposit_call_address': 2, 'time': 3, 'withdraw_call_address': 32}",1
+6,3,[ 1  3  2 32  3  0  0  4  6  1  1],"{'action': 1, 'deposit_call_address': 2, 'time': 3, 'withdraw_call_address': 32}",1
+6,4,[ 1  3  1 35  4  2  0  6  5  1  1],"{'action': 1, 'deposit_call_address': 1, 'time': 3, 'withdraw_call_address': 35}",1
+6,5,[ 1  2  1 44  5  1  0  8  4  1  1],"{'action': 1, 'deposit_call_address': 1, 'time': 2, 'withdraw_call_address': 44}",1
+6,6,[ 1  3  0 56  6  2  0 10  3  1  1],"{'action': 1, 'deposit_call_address': 0, 'time': 3, 'withdraw_call_address': 56}",1
+6,7,[ 0  0  1 43  5  1  0  9  3  1  1],"{'action': 0, 'deposit_call_address': 1, 'time': 0, 'withdraw_call_address': 43}",1
+6,8,[ 1  0  0 58  6  1  0 10  2  1  1],"{'action': 1, 'deposit_call_address': 0, 'time': 0, 'withdraw_call_address': 58}",1
+6,9,[ 0  2  0 51  5  1  0 10  2  1  1],"{'action': 0, 'deposit_call_address': 0, 'time': 2, 'withdraw_call_address': 51}",1
+6,10,[ 1  4  1 52  6  0  0 14  1  1  1],"{'action': 1, 'deposit_call_address': 1, 'time': 4, 'withdraw_call_address': 52}",1
+6,11,[ 0  0  0 58  5  1  1 13  1  1  1],"{'action': 0, 'deposit_call_address': 0, 'time': 0, 'withdraw_call_address': 58}",1
+6,12,[ 0  3  0 38  4  1  0 13  1  1  1],"{'action': 0, 'deposit_call_address': 0, 'time': 3, 'withdraw_call_address': 38}",1
+6,13,[ 0  2  0 52  3  1  1 12  1  1  1],"{'action': 0, 'deposit_call_address': 0, 'time': 2, 'withdraw_call_address': 52}",1
+6,14,[ 1  0  0  8  4  0  0 13  0  1  1],"{'action': 1, 'deposit_call_address': 0, 'time': 0, 'withdraw_call_address': 8}",1
+6,15,[ 0  1  0  2  3  0  0 13  0  1  0],"{'action': 0, 'deposit_call_address': 0, 'time': 1, 'withdraw_call_address': 2}",1
+6,16,[ 0  3  0 39  2  0  0 12  0  1  1],"{'action': 0, 'deposit_call_address': 0, 'time': 3, 'withdraw_call_address': 39}",1
+6,17,[ 0  3  2 58  1  0  1 11  0  1  1],"{'action': 0, 'deposit_call_address': 2, 'time': 3, 'withdraw_call_address': 58}",1
+6,18,[ 0  2  0 22  0  0  0 10  0  1  1],"{'action': 0, 'deposit_call_address': 0, 'time': 2, 'withdraw_call_address': 22}",1
